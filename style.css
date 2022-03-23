@@ -1,0 +1,13 @@
+h3{
+    font-size: 30px !important;
+    border-radius: 10px !important;
+    background-color: rgb(194, 250, 194) !important;
+    color: black !important;
+    box-shadow: 5px 5px 5px grey !important;
+}
+body{
+    background-size: cover;	
+}
+h1{
+    font-size: 35px !important;
+}
